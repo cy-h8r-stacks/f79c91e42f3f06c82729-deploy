@@ -17,7 +17,7 @@ image:
   repository: ghcr.io/cy-h8r-stacks/f79c91e42f3f06c82729
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "main"
+  tag: "v1.1.3"
 frontImage:
   repository: ghcr.io/cy-h8r-stacks/f79c91e42f3f06c82729-front
   pullPolicy: Always
